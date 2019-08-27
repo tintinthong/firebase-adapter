@@ -1,6 +1,7 @@
 # firebase-adapter
 
-My pre-made adapter in using firebase, specifically cloud firestore. The functionality was designed based upon building an airbnb-type website.
+Pre-made adapter in using firebase, specifically cloud firestore. Designed specifically for airbnb-type website.
+
 
 ## Installation and Getting Started 
 
