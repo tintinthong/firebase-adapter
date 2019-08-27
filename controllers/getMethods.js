@@ -43,7 +43,6 @@ exports.getExperiences = function (req, res, firebase) {
 
 
 exports.getExperience = function (req, res, firebase) {
-    //eDtFccnT0NBBmWcO9dYP
     var db = firebase.firestore();
     var doc = db.collection("experiences").doc(req.params.id).get().then(doc => {
         if (!doc.exists) {
