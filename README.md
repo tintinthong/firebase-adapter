@@ -1,6 +1,6 @@
-# Firebase Library
+# firebase-adapter
 
-This is a codebase that help people get up and running with firebase. The functionality was designed based upon building an airbnb-type website.
+My pre-made adapter in using firebase, specifically cloud firestore. The functionality was designed based upon building an airbnb-type website.
 
 ## Installation and Getting Started 
 
